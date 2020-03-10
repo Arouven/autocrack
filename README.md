@@ -1,15 +1,15 @@
 # autocrack
-Make aircrack-ng 1.6 works under bash(absolute beginner's script).
+Make aircrack-ng 1.6 works under bash (absolute beginner's script).
 
 YOU ARE FREE TO DOWNLOAD AND EDIT THIS CODE!
 
 prerequisite:
-- linux os(debian was used)
+- linux os (debian was used)
 - wifi adapter or a laptop with adapter that support monitor mode
 
 make the script run:
 - copy the autocrack.sh into a new directory
-- open terminal and change the mode to executable(chmod +x autocrack.sh)
+- open terminal and change the mode to executable (chmod +x autocrack.sh)
 - run (sudo ./autocrack.sh)
 - password will output in (password.txt)
 - and do your thing!
