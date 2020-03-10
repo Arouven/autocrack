@@ -171,10 +171,10 @@ display_options () {
     	echo '[3]   install aircrack'
 	echo '[4]   install firmware-realtek'
 	echo '[5]   install xterm'
-	echo '[6]   monitor, capture access points and capture handshake(prerequisite: xterm, net-tools, aircrack, firmware-realtek, sed, awk, cat)'
+	echo '[6]   monitor, capture access points and capture handshake (prerequisite: xterm, net-tools, aircrack, firmware-realtek, sed, awk, cat)'
 	echo '[7]   monitor mode off (prerequisite: net-tools'
-	echo '[8]   crack .cap file(prerequisite: crunch, aircrack-ng, cat, grep)'
-    	echo '[100] All'
+	echo '[8]   crack .cap file (prerequisite: crunch, aircrack-ng, cat, grep)'
+    	echo '[100] all'
 
 	echo ''
 	read -p "Input your choice: " option
