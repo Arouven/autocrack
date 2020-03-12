@@ -5,7 +5,7 @@ YOU ARE FREE TO DOWNLOAD AND EDIT THIS CODE!
 
 
 prerequisite:
-- linux os (debian was used)
+- linux os (debian base was used)
 - wifi adapter or a laptop with adapter that support monitor mode
 
 
