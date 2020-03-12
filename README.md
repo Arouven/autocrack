@@ -25,5 +25,11 @@ some commands:
 - if already have wordlist (aircrack-ng -b $bssid -w $wordlist $cap_file -l password.txt)
 
 
+for GPU cracking:
+- with hashcat (crunch $min $max $char | hashcat -m2500 -a0 -o password.txt $hccapx_file)
+- with pyrit (crunch $min $max $char | pyrit -r $cap_file -b $bssid -i- -o password.txt attack_passthrough)
+
+
+
 
 and as usual ENJOY!
