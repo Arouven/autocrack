@@ -30,6 +30,9 @@ for GPU cracking:
 - with pyrit (crunch $min $max $char | pyrit -r $cap_file -b $bssid -i- -o password.txt attack_passthrough)
 
 
+software merit:
+- macchanger
+- scrunch (https://github.com/skriachko/scrunch)
 
 
 and as usual ENJOY!
